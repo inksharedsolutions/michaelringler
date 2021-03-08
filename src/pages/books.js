@@ -19,7 +19,7 @@ const abouttheauthor= (props) =>{
 	
 	const bannerText = (
 		<>
-			<span className="banr-tagline-fx">Jonny Burgess</span>
+			<span className="banr-tagline-fx">Stephen M. Ringler</span>
 			<h1 className="banr-header-fx">
 				<span className="banr-spn-highlight" id="span-non-front">Books</span>
 			</h1>
@@ -103,7 +103,7 @@ const abouttheauthor= (props) =>{
 									<span>Ebook :</span>
 									<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/dp/B08HSP7BH3/ref=sr_1_1?dchild=1&keywords=9781648951756&qid=1599769837&sr=8-1">Amazon</a></li>
 									{/* <li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/you-still-can-too-take-your-aflac-career-to-a-whole-new-level/">Stratton Press</a></li> */}
-									<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/noahs-other-ark-stephen-m-ringler/1137659618?ean=9781648951794">Barnes & Noble</a></li>
+									<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/philosophical-poetry-chaitanya-das-ma/1137619716?ean=9781648951756">Barnes & Noble</a></li>
 								</nav>
 
 								<nav className="booklinkBlocks">
@@ -151,7 +151,7 @@ const abouttheauthor= (props) =>{
 									The Frog that Skipped<br />
 									The 20/20 Vision Bat<br />
 									The Lady Bug Who was No Lady<br />
-									The Thin-skinned Rhino
+									The Thin-skinned Rhino<br />
 									The Hummingbird that Knew the Words<br />
 									The Super-sonic Snail<br />
 									The Laughing Hyena without a Sense of Humor<br />

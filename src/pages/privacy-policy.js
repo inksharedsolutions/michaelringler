@@ -11,7 +11,7 @@ const Pp = () =>{
 	const bannerText = (
 		<>
 			<span className="banr-tagline-fx">
-				Jonny Burgess
+				Stephen M. Ringler
 			</span>
 
 			<h1 className="banr-header-fx">
