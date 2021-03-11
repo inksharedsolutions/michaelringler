@@ -168,7 +168,7 @@
 	}
 	.banr-spn-highlight{
 		
-		// font-size: 3rem;
+		font-size: 3rem;
 
 		&:after{
 			display:none;
@@ -344,19 +344,10 @@
 
 @media only screen and (max-width:  $sxBp ){
 
-
-	// .banr-spn-highlight{
-	// 	font-size: 3rem;
-	// }
-
 	.icon-auhtor{
 		img{
 			width: 70px;
 		}
-	}
-
-	.banr-spn-highlight{
-		font-size: 1.2em;
 	}
 
 	.banr-spn-2{
@@ -389,6 +380,10 @@
 		h1{
 			font-size: 14px;
 		}
+	}
+
+	.banr-spn-highlight{
+		font-size: 0.9em;
 	}
 }
 

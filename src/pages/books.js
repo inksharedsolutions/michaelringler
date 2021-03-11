@@ -71,50 +71,6 @@ const abouttheauthor= (props) =>{
 							</div>
 						</div>
 
-
-
-						<div className="columns" id="philosophical-poetry">
-						
-							<div className="column">
-								<div className="bookImgContainer">
-									<img id="snowbear" alt="main-book" src={Book2} />
-								</div>
-							</div>
-							
-							<div className="column">
-								<section className="contentBook">
-
-									<div className="title-wrapper">
-										<h1>Philosophical Poetry</h1>
-										<p></p>
-									</div>
-
-									<p>
-									Whoever you may or may not be as a reader of these words of wisdom in this book, everything you experience while reading this book is a positive experience. It is an accomplishment as a writer and reader equally.
-									</p>
-									
-									<p>
-									And so it is, abracadabra.
-									</p>
-
-								</section>
-
-								<nav className="booklinkBlocks">
-									<span>Ebook :</span>
-									<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/dp/B08HSP7BH3/ref=sr_1_1?dchild=1&keywords=9781648951756&qid=1599769837&sr=8-1">Amazon</a></li>
-									{/* <li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/you-still-can-too-take-your-aflac-career-to-a-whole-new-level/">Stratton Press</a></li> */}
-									<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/philosophical-poetry-chaitanya-das-ma/1137619716?ean=9781648951756">Barnes & Noble</a></li>
-								</nav>
-
-								<nav className="booklinkBlocks">
-									<span>Paperback :</span>
-									<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Philosophical-Poetry-Chaitanya-Das-Ma/dp/1648951740/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1600197365&sr=8-1">Amazon</a></li>
-									<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/philosophical-poetry-chaitanya-das-ma/1137619716?ean=9781648951749">Barnes & Noble </a></li>
-									<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Philosophical-Poetry/Chaitanya-Das-Ma/9781648951749?id=8147396224924">Books A Million</a></li>
-								</nav>
-							</div>
-						</div>
-
 						<div className="columns" id="noahs-other-ark">
 						
 							<div className="column">

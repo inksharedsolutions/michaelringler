@@ -14,13 +14,13 @@ const IndexPage = () => {
 		<>
 			<span className="banr-tagline-fx">Stephen M. Ringler</span>
 			<h1 className="banr-header-fx">
-				<span className="banr-spn-2">Invoke healing; growth, to summon and strengthen our</span> 
-				<span className="banr-spn-highlight">Divine Awakening</span>
+				<span className="banr-spn-2">Discover something</span> 
+				<span className="banr-spn-highlight">Captivating</span>
 				
 				<Link
 					key=""
 					className="btn-banner-intro" 
-					to="/books#you-can-too">Read More
+					to="/books">Read More
 				</Link>
 			</h1>
 		</>

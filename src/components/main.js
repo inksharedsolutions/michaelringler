@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import icon from '../assets/img/author/1.jpg';
+import icon from '../assets/img/author/dummy-profile.jpg';
 
 const main = () => {
 	return (
@@ -24,7 +24,7 @@ const main = () => {
 					</p>
 
 					<p style={{textAlign: "justify"}}>
-                    I lived in Anchorage Alaska 1999 I went to the gym to lift weights and they had an arm wrestling table there for arm wrestlers. I was predicted to be the next world champion arm wrestler for my weight class and age at the time. I was very much involved in sports growing up it was the only thing I enjoyed outside of creative writing in school. I competed in the Thursday night tough man competition in Anchorage Alaska and I won. so between being promoted to become a professional boxer with a professional boxing coach in Alaska to be prepared to become a professional boxer and go to Vegas I was also being prepared to go to Vegas for arm wrestling.
+                    Stephen M. Ringler has a master's degree in international business from the American Graduate School with a fluency in Spanish and specialty in Latin America. He lived in Puerto Rico and Venezuela, working extensively throughout South America. He resided in Mexico for ten years, operating in all thirty-two states developing an intimate knowledge of the country and culture.
 					</p>
 
 					<button className="btn-main-customize">
